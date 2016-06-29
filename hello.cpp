@@ -10,8 +10,11 @@ using namespace std;
 int main()
 {
 	cout << "My name is Alex" << endl;
-	cout << "Yes" << endl;
+	cout << "No, this is Patrick!" << endl;
 }
 
-
+for(i=0;i<10;i++)
+{
+	i
+}
 
