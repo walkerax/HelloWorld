@@ -12,7 +12,7 @@ int main()
 	cout << "My name is Alex" << endl;
 	cout << "No, this is Patrick!" << endl;
 	
-	for(i=0;i<10;i++)
+	for(int i=0;i<10;i++)
 	{
 		cout << i << "\n";
 	}
